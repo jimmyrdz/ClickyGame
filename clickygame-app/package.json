@@ -2,7 +2,7 @@
   "name": "clickygame-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jimmyrdz/ClickyGame/tree/master/clickygame-app",
+  "homepage": "https://jimmyrdz.github.io/ClickyGame/",
   "dependencies": {
     "@material-ui/core": "^4.3.0",
     "gh-pages": "^2.0.1",
