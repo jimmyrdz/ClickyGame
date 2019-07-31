@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/css/main.2cac3276.chunk.css",
-    "main.js": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/js/main.ace0bfb6.chunk.js",
-    "main.js.map": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/js/main.ace0bfb6.chunk.js.map",
-    "runtime~main.js": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/js/runtime~main.a27c64b7.js",
-    "runtime~main.js.map": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/js/runtime~main.a27c64b7.js.map",
-    "static/js/2.81b62e6c.chunk.js": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/js/2.81b62e6c.chunk.js",
-    "static/js/2.81b62e6c.chunk.js.map": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/js/2.81b62e6c.chunk.js.map",
-    "index.html": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/index.html",
-    "precache-manifest.abda742b3dd96623455e4ed56284161d.js": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/precache-manifest.abda742b3dd96623455e4ed56284161d.js",
-    "service-worker.js": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/service-worker.js",
-    "static/css/main.2cac3276.chunk.css.map": "/jimmyrdz/ClickyGame/tree/master/clickygame-app/static/css/main.2cac3276.chunk.css.map"
+    "main.css": "/ClickyGame/static/css/main.2cac3276.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.9f3e4a61.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.9f3e4a61.chunk.js.map",
+    "runtime~main.js": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js",
+    "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js.map",
+    "static/js/2.81b62e6c.chunk.js": "/ClickyGame/static/js/2.81b62e6c.chunk.js",
+    "static/js/2.81b62e6c.chunk.js.map": "/ClickyGame/static/js/2.81b62e6c.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.64a8313bfc7d4d56c2e40004ed41ffe5.js": "/ClickyGame/precache-manifest.64a8313bfc7d4d56c2e40004ed41ffe5.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.2cac3276.chunk.css.map": "/ClickyGame/static/css/main.2cac3276.chunk.css.map"
   }
 }
